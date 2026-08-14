@@ -1,23 +1,8 @@
-## Hi there 👋
-
-<!--
-**Krushikreddy123/Krushikreddy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 # Hi, I'm Krushikreddy 👋
 
-### Information Technology Undergraduate | Python | SQL | Data & Machine Learning
+### Information Technology Undergraduate | Python | SQL | Full stack & Machine Learning
 
-I'm an Information Technology undergraduate interested in **Data Engineering, Software Development, and Machine Learning**.
+I'm an Information Technology undergraduate interested in **Full stack Development, Software Development, and Machine Learning**.
 
 * 💻 Strong foundations in **Data Structures & Algorithms**
 * 🐍 Working with **Python, NumPy, Pandas**
@@ -37,13 +22,8 @@ Python-based machine learning application for crop disease classification and ad
 ### Tech Stack
 
 **Languages:** Python, Java, SQL, C
-**Data:** NumPy, Pandas, MySQL, Data Preprocessing, EDA
-**Machine Learning:** TensorFlow, Scikit-learn, OpenCV
+**Data Analysis:** NumPy, Pandas, MySQL, Data Preprocessing, EDA
+**Machine Learning:** TensorFlow, Scikit-learn, Model Testing & Training
 **Web:** HTML, CSS, JavaScript, Node.js, Express.js
 **Tools:** Git, GitHub, VS Code
 
-### Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [LeetCode](YOUR_LEETCODE_URL)
-
--->
