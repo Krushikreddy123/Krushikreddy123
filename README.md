@@ -21,9 +21,9 @@ Python-based machine learning application for crop disease classification and ad
 
 ### Tech Stack
 
-**Languages:** Python, Java, SQL, C
-**Data Analysis:** NumPy, Pandas, MySQL, Data Preprocessing, EDA
-**Machine Learning:** TensorFlow, Scikit-learn, Model Testing & Training
-**Web:** HTML, CSS, JavaScript, Node.js, Express.js
-**Tools:** Git, GitHub, VS Code
+* **Languages:** Python, Java, SQL, C
+* **Data Analysis:** NumPy, Pandas, MySQL, Data Preprocessing, EDA
+* **Machine Learning:** TensorFlow, Scikit-learn, Model Testing & Training
+* **Web:** HTML, CSS, JavaScript, Node.js, Express.js
+* **Tools:** Git, GitHub, VS Code
 
